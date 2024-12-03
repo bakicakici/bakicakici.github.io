@@ -16,6 +16,13 @@
       <description>About Baki Cakici</description>
     </item>
     <item>
+      <title>Navigating Complexity: Mapping, Visualisation, and Decision-Making (Autumn 2019)</title>
+      <link>http://localhost:1313/teaching/navcom2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/navcom2019/</guid>
+      <description>The course will teach students to analyse complexity within an empirical case that explores a current topic or controversy within the field of science, technology, and innovation.</description>
+    </item>
+    <item>
       <title>CASE: A Framework for Computer Supported Outbreak Detection</title>
       <link>http://localhost:1313/writing/case2010/</link>
       <pubDate>Fri, 12 Mar 2010 00:00:00 +0000</pubDate>
@@ -30,13 +37,6 @@
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/things/data1/</guid>
       <description>This contains nothing at the moment.</description>
-    </item>
-    <item>
-      <title>Placeholder entry for a course</title>
-      <link>http://localhost:1313/teaching/course1/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/course1/</guid>
-      <description>This is a placeholder.</description>
     </item>
   </channel>
 </rss>

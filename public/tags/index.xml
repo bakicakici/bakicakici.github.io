@@ -9,6 +9,41 @@
     <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Complexity</title>
+      <link>http://localhost:1313/tags/complexity/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/complexity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mapping</title>
+      <link>http://localhost:1313/tags/mapping/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mapping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Method</title>
+      <link>http://localhost:1313/tags/method/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/method/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sts</title>
+      <link>http://localhost:1313/tags/sts/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualisation</title>
+      <link>http://localhost:1313/tags/visualisation/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/visualisation/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Epidemiology</title>
       <link>http://localhost:1313/tags/epidemiology/</link>
       <pubDate>Fri, 12 Mar 2010 00:00:00 +0000</pubDate>
@@ -39,7 +74,7 @@
     <item>
       <title>Lorem Ipsum</title>
       <link>http://localhost:1313/tags/lorem-ipsum/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/lorem-ipsum/</guid>
       <description></description>
     </item>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Courses on Baki Cakici</title>
+    <title>Teaching on Baki Cakici</title>
     <link>http://localhost:1313/teaching/</link>
-    <description>Recent content in Courses on Baki Cakici</description>
+    <description>Recent content in Teaching on Baki Cakici</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Placeholder entry for a course</title>
-      <link>http://localhost:1313/teaching/course1/</link>
-      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/course1/</guid>
-      <description>This is a placeholder.</description>
+      <title>Navigating Complexity: Mapping, Visualisation, and Decision-Making (Autumn 2019)</title>
+      <link>http://localhost:1313/teaching/navcom2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/navcom2019/</guid>
+      <description>The course will teach students to analyse complexity within an empirical case that explores a current topic or controversy within the field of science, technology, and innovation.</description>
     </item>
   </channel>
 </rss>
