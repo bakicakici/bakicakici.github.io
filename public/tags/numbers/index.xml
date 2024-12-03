@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Numbers on Baki Cakici</title>
+    <link>http://localhost:1313/tags/numbers/</link>
+    <description>Recent content in Numbers on Baki Cakici</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/numbers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When Numbers Run Out: Civil Registration and the Performativity of Methods</title>
+      <link>http://localhost:1313/writing/numbers2024/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/numbers2024/</guid>
+      <description>Personal identification numbers used in the Nordic countries contain a fundamental tension that is impossible to resolve via technical fixes.</description>
+    </item>
+  </channel>
+</rss>

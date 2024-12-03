@@ -345,6 +345,7 @@
     font-size: 16px;
     line-height: 32px;
     background: var(--code-bg);
+    text-transform: lowercase;
 }
 
 .post-tags a:hover {

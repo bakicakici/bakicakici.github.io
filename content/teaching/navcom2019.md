@@ -1,6 +1,6 @@
 ---
 title: "Navigating Complexity: Mapping, Visualisation, and Decision-Making (Autumn 2019)"
-date: 2019-09-01
+date: 2019-08-01
 lastmod: 2024-12-03
 tags: ["complexity", "mapping", "visualisation", "sts", "method"]
 author: "Baki Cakici"

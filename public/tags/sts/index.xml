@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>STS on Baki Cakici</title>
+    <link>http://localhost:1313/tags/sts/</link>
+    <description>Recent content in STS on Baki Cakici</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spaceships and Poetry: Enlivening the Lab as a Site of Feminist Critical Pedagogy</title>
+      <link>http://localhost:1313/writing/spaceships2024/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/spaceships2024/</guid>
+      <description>We analyse the critical potential of STS lab work in technical environments and provide recommendations from our evolving space of feminist praxis.</description>
+    </item>
+    <item>
+      <title>The Politics of Seamlessness: A Rights Claims Perspective on Digital Identification Technologies</title>
+      <link>http://localhost:1313/writing/seamlessness2024/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/seamlessness2024/</guid>
+      <description>We analyse seamlessness and political participation as digital identification becomes the invisible background of state-citizen interactions.</description>
+    </item>
+    <item>
+      <title>When Numbers Run Out: Civil Registration and the Performativity of Methods</title>
+      <link>http://localhost:1313/writing/numbers2024/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/numbers2024/</guid>
+      <description>Personal identification numbers used in the Nordic countries contain a fundamental tension that is impossible to resolve via technical fixes.</description>
+    </item>
+    <item>
+      <title>Navigating Complexity: Mapping, Visualisation, and Decision-Making (Autumn 2023)</title>
+      <link>http://localhost:1313/teaching/navcom2023/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/navcom2023/</guid>
+      <description>The course will teach students to analyse complexity within an empirical case that explores a current topic or controversy within the field of science, technology, and innovation.</description>
+    </item>
+    <item>
+      <title>Navigating Complexity: Mapping, Visualisation, and Decision-Making (Autumn 2020)</title>
+      <link>http://localhost:1313/teaching/navcom2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/navcom2020/</guid>
+      <description>The course will teach students to analyse complexity within an empirical case that explores a current topic or controversy within the field of science, technology, and innovation.</description>
+    </item>
+    <item>
+      <title>Navigating Complexity: Mapping, Visualisation, and Decision-Making (Autumn 2019)</title>
+      <link>http://localhost:1313/teaching/navcom2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/navcom2019/</guid>
+      <description>The course will teach students to analyse complexity within an empirical case that explores a current topic or controversy within the field of science, technology, and innovation.</description>
+    </item>
+  </channel>
+</rss>

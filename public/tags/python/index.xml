@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Baki Cakici</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>Recent content in Python on Baki Cakici</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming and Data Processing (Spring 2024)</title>
+      <link>http://localhost:1313/teaching/pdp2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/pdp2024/</guid>
+      <description>This course is designed to give students a basic introduction to programming and data processing.</description>
+    </item>
+    <item>
+      <title>Programming and Data Processing (Spring 2023)</title>
+      <link>http://localhost:1313/teaching/pdp2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/pdp2023/</guid>
+      <description>This course is designed to give students a basic introduction to programming and data processing.</description>
+    </item>
+  </channel>
+</rss>
