@@ -12,7 +12,7 @@ menu:
     main:
         - name: writing
           url: writing/
-          weight: 5 
+          weight: 1 
         - name: teaching
           url: teaching/
           weight: 2
@@ -29,7 +29,7 @@ params:
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -61,11 +61,11 @@ params:
               url: teaching/
             - name: things
               url: things/
-            - name: about/
+            - name: about
               url: about/
-            - name: Tags
+            - name: tags
               url: tags/
-            - name: Archive
+            - name: archive
               url: archive/
 
     socialIcons:
