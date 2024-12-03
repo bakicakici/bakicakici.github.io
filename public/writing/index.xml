@@ -9,17 +9,10 @@
     <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Unusual Uses For Olive Oil</title>
-      <link>http://localhost:1313/writing/writing02/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writing/writing02/</guid>
-      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
-    </item>
-    <item>
       <title>CASE: A Framework for Computer Supported Outbreak Detection</title>
-      <link>http://localhost:1313/writing/writing01/</link>
+      <link>http://localhost:1313/writing/case2010/</link>
       <pubDate>Fri, 12 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/writing/writing01/</guid>
+      <guid>http://localhost:1313/writing/case2010/</guid>
       <description>&lt;hr&gt;
 &lt;h5 id=&#34;background&#34;&gt;Background&lt;/h5&gt;
 &lt;p&gt;In computer supported outbreak detection, a statistical method is applied to a collection of cases to detect any excess cases for a particular disease. Whether a detected aberration is a true outbreak is decided by a human expert. We present a technical framework designed and implemented at the Swedish Institute for Infectious Disease Control for computer supported outbreak detection, where a database of case reports for a large number of infectious diseases can be processed using one or more statistical methods selected by the user.&lt;/p&gt;</description>

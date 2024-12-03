@@ -69,10 +69,12 @@ params:
               url: archive/
 
     socialIcons:
-        - name: Orcid
+        - name: ORCID
           url: https://orcid.org/0000-0002-1039-8177
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=0UVuv_0AAAAJ
+        - name: ITU
+          url: https://pure.itu.dk/en/persons/baki-cakici
         - name: Email
           url: mailto:mail@bakicakici.eu
         
