@@ -1,4 +1,4 @@
 ---
-title: "Papers"
-description: "Preprints and articles by Professor Dr von Igelfeld."
+title: "Writing"
+description: "Academic writing on identification, surveillance, and the politics of data."
 ---
