@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://bakicakici.eu/" 
+title: Baki Cakici
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -10,25 +10,22 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
+        - name: writing
+          url: writing/
           weight: 5 
-        - name: Papers
-          url: papers/
+        - name: teaching
+          url: teaching/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: things
+          url: things/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        - name: about
+          url: about/
+          weight: 4
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "Associate professor in STS/sociology/computer science at the IT University of Copenhagen."
+    author: Baki Cakici
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -42,7 +39,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["writing","teaching","things","about"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -52,56 +49,40 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          title: Baki Cakici
+          subtitle: "I am an associate professor working at the intersections of science & technology studies (STS), sociology, and computer science at the [IT University of Copenhagen](https://itu.dk/). My research interests include the politics of data, software studies, and identification systems."
+          # imageUrl: "picture.jpeg"
+          # imageWidth: 160
+          # imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
+            - name: writing
+              url: writing/
+            - name: teaching
+              url: teaching/
+            - name: things
+              url: things/
+            - name: about/
+              url: about/
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:mail@bakicakici.eu
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?hl=en&user=0UVuv_0AAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
-
+          url: https://github.com/bakicakici
+          
     assets:
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Baki Cakici"
       icon: favicon.ico
       iconHeight: 18
 
