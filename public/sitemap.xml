@@ -14,7 +14,7 @@
     <loc>http://localhost:1313/tags/ethos-lab/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/feminism/</loc>
+    <loc>http://localhost:1313/tags/feminist-theory/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/poetry/</loc>
@@ -75,7 +75,7 @@
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data/</loc>
-    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/programming/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -118,6 +118,42 @@
   </url><url>
     <loc>http://localhost:1313/teaching/pdp2023/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/embodiment/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/monsters/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/text/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vulnerability/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/writing/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/monsters2022/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/datapractices2021/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/enacment/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/europe/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/population-census/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/practices/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/statistics/</loc>
+    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/teaching/navcom2020/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
