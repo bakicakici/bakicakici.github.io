@@ -2,7 +2,7 @@
 title: "Spaceships and Poetry: Enlivening the Lab as a Site of Feminist Critical Pedagogy"
 date: 2024-12-01
 lastmod: 2024-12-03
-tags: ["spaceships","poetry", "STS", "ETHOS lab", "feminism", "critical pedagogy"]
+tags: ["spaceships","poetry", "STS", "ETHOS lab", "feminist theory", "critical pedagogy"]
 author: ["Rachel Douglas-Jones", "Baki Cakici", "Marisa Leavitt Cohn", "Simy Kaur Gahoonia", "Mace Ojala", "Cæcilie Sloth Laursen"]
 description: "We analyse the critical potential of STS lab work in technical environments and provide recommendations from our evolving space of feminist praxis."
 summary: "We analyse the critical potential of STS lab work in technical environments and provide recommendations from our evolving space of feminist praxis."

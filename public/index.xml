@@ -6,7 +6,7 @@
     <description>Recent content on Baki Cakici</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -51,11 +51,25 @@
       <description>The course will teach students to analyse complexity within an empirical case that explores a current topic or controversy within the field of science, technology, and innovation.</description>
     </item>
     <item>
+      <title>Risken är att att 500 miljoner kronor kastas bort på en ny folkräkning</title>
+      <link>http://localhost:1313/writing/risken2023/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/risken2023/</guid>
+      <description>Mot bakgrund av kunskapsläget är vi förvånade över att regeringen och Sverigedemokraterna avser att driva igenom att Sverige ska genomföra en folkräkning.</description>
+    </item>
+    <item>
       <title>Programming and Data Processing (Spring 2023)</title>
       <link>http://localhost:1313/teaching/pdp2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/pdp2023/</guid>
       <description>This course is designed to give students a basic introduction to programming and data processing.</description>
+    </item>
+    <item>
+      <title>Writing Bodies and Bodies of Text: Thinking Vulnerability Through Monsters</title>
+      <link>http://localhost:1313/writing/monsters2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/monsters2022/</guid>
+      <description>We suggest approaching writing as a vulnerable practice marked by an unstable boundary between bodies: bodies of text and bodies of writers.</description>
     </item>
     <item>
       <title>Navigating Complexity: Mapping, Visualisation, and Decision-Making (Autumn 2020)</title>
