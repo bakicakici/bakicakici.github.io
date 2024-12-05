@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/writing/spaceships2024/</guid>
       <description>We analyse the critical potential of STS lab work in technical environments and provide recommendations from our evolving space of feminist praxis.</description>
     </item>
+    <item>
+      <title>Upon Not Opening The Black Box</title>
+      <link>http://localhost:1313/writing/blackbox2020/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/blackbox2020/</guid>
+      <description>We offer a discussion on the value of data, its use and non-use, as well as how to live with this ambivalence.</description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Data Practices on Baki Cakici</title>
+    <link>http://localhost:1313/tags/data-practices/</link>
+    <description>Recent content in Data Practices on Baki Cakici</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/data-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Methods as Forces of Subjectivation: Experiments in the Remaking of Official Statistics</title>
+      <link>http://localhost:1313/writing/subjectivation2020/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/subjectivation2020/</guid>
+      <description>We develop the concept of methods as forces of subjectivation in relation to experiments we have encountered in a study of official population statistics.</description>
+    </item>
+    <item>
+      <title>Peopling Europe through Data Practices: Introduction to the Special Issue</title>
+      <link>http://localhost:1313/writing/peopling2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/peopling2020/</guid>
+      <description>What does it mean to say, I am European? Where does Europe begin and end? Who can legitimately claim to be a part of a European people?</description>
+    </item>
+  </channel>
+</rss>

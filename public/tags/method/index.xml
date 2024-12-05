@@ -6,7 +6,7 @@
     <description>Recent content in Method on Baki Cakici</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/method/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Navigating Complexity: Mapping, Visualisation, and Decision-Making (Autumn 2023)</title>
@@ -23,11 +23,32 @@
       <description>The course will teach students to analyse complexity within an empirical case that explores a current topic or controversy within the field of science, technology, and innovation.</description>
     </item>
     <item>
+      <title>Doing a Transversal Method: Developing an Ethics of Care in a Collaborative Research Project</title>
+      <link>http://localhost:1313/writing/transversal2019/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/transversal2019/</guid>
+      <description>We depart from some conceptual presuppositions of methodological cosmopolitanism to define a transversal method.</description>
+    </item>
+    <item>
       <title>Navigating Complexity: Mapping, Visualisation, and Decision-Making (Autumn 2019)</title>
       <link>http://localhost:1313/teaching/navcom2019/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/navcom2019/</guid>
       <description>The course will teach students to analyse complexity within an empirical case that explores a current topic or controversy within the field of science, technology, and innovation.</description>
+    </item>
+    <item>
+      <title>Citizen Data and Trust in Official Statistics</title>
+      <link>http://localhost:1313/writing/citizendata2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/citizendata2018/</guid>
+      <description>In a time of alternative facts, what constitutes legitimate knowledge and expertise are major political sites of contention and struggle.</description>
+    </item>
+    <item>
+      <title>Data Scientists: A New Faction of the Transnational Field of Statistics</title>
+      <link>http://localhost:1313/writing/datascientists2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/datascientists2018/</guid>
+      <description>We discuss how data science as a  field and a profession came into being in relation to but also as a critique of existing ones such as statistics and statisticians.</description>
     </item>
   </channel>
 </rss>

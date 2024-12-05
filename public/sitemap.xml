@@ -6,7 +6,7 @@
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/critical-pedagogy/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -30,10 +30,10 @@
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writing/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/identification/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -60,7 +60,7 @@
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/methods/</loc>
-    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/numbers/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -75,7 +75,7 @@
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/programming/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -96,7 +96,7 @@
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/method/</loc>
-    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/teaching/navcom2023/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -140,22 +140,58 @@
     <loc>http://localhost:1313/writing/datapractices2021/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/enacment/</loc>
+    <loc>http://localhost:1313/writing/datasubjects2021/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/enactment/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/europe/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/population-census/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/practices/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/statsubjects2021/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/statistics/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/subjects/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/teaching/navcom2020/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/black-box/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gdpr/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/blackbox2020/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-practices/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jedi/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/subjectivation2020/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/subjectivation/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/peopling2020/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/special-issue/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/things/thing01/</loc>
@@ -167,8 +203,41 @@
     <loc>http://localhost:1313/things/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/writing/transversal2019/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/transversal/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/teaching/navcom2019/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/accountability/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/algorithms/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/mystery2019/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/context/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/citizen/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/citizendata2018/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/trust/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-scientist/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/datascientists2018/</loc>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writing/case2010/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>

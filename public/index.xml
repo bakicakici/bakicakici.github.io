@@ -6,7 +6,7 @@
     <description>Recent content on Baki Cakici</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -100,6 +100,27 @@
       <description>The course will teach students to analyse complexity within an empirical case that explores a current topic or controversy within the field of science, technology, and innovation.</description>
     </item>
     <item>
+      <title>Upon Not Opening The Black Box</title>
+      <link>http://localhost:1313/writing/blackbox2020/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/blackbox2020/</guid>
+      <description>We offer a discussion on the value of data, its use and non-use, as well as how to live with this ambivalence.</description>
+    </item>
+    <item>
+      <title>Methods as Forces of Subjectivation: Experiments in the Remaking of Official Statistics</title>
+      <link>http://localhost:1313/writing/subjectivation2020/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/subjectivation2020/</guid>
+      <description>We develop the concept of methods as forces of subjectivation in relation to experiments we have encountered in a study of official population statistics.</description>
+    </item>
+    <item>
+      <title>Peopling Europe through Data Practices: Introduction to the Special Issue</title>
+      <link>http://localhost:1313/writing/peopling2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/peopling2020/</guid>
+      <description>What does it mean to say, I am European? Where does Europe begin and end? Who can legitimately claim to be a part of a European people?</description>
+    </item>
+    <item>
       <title>Placeholder project</title>
       <link>http://localhost:1313/things/thing01/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -107,11 +128,39 @@
       <description>This contains nothing at the moment.</description>
     </item>
     <item>
+      <title>Doing a Transversal Method: Developing an Ethics of Care in a Collaborative Research Project</title>
+      <link>http://localhost:1313/writing/transversal2019/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/transversal2019/</guid>
+      <description>We depart from some conceptual presuppositions of methodological cosmopolitanism to define a transversal method.</description>
+    </item>
+    <item>
       <title>Navigating Complexity: Mapping, Visualisation, and Decision-Making (Autumn 2019)</title>
       <link>http://localhost:1313/teaching/navcom2019/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/navcom2019/</guid>
       <description>The course will teach students to analyse complexity within an empirical case that explores a current topic or controversy within the field of science, technology, and innovation.</description>
+    </item>
+    <item>
+      <title>Beyond Mystery: Putting Algorithmic Accountability in Context</title>
+      <link>http://localhost:1313/writing/mystery2019/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/mystery2019/</guid>
+      <description>We cannot stop at denouncing the lack of accountability for algorithms but must engage the broader systems and that algorithmic systems exist within.</description>
+    </item>
+    <item>
+      <title>Citizen Data and Trust in Official Statistics</title>
+      <link>http://localhost:1313/writing/citizendata2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/citizendata2018/</guid>
+      <description>In a time of alternative facts, what constitutes legitimate knowledge and expertise are major political sites of contention and struggle.</description>
+    </item>
+    <item>
+      <title>Data Scientists: A New Faction of the Transnational Field of Statistics</title>
+      <link>http://localhost:1313/writing/datascientists2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/datascientists2018/</guid>
+      <description>We discuss how data science as a  field and a profession came into being in relation to but also as a critique of existing ones such as statistics and statisticians.</description>
     </item>
     <item>
       <title>CASE: A Framework for Computer Supported Outbreak Detection</title>

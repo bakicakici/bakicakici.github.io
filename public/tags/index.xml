@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Baki Cakici</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Critical Pedagogy</title>
@@ -233,10 +233,10 @@
       <description></description>
     </item>
     <item>
-      <title>Enacment</title>
-      <link>http://localhost:1313/tags/enacment/</link>
+      <title>Enactment</title>
+      <link>http://localhost:1313/tags/enactment/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/enacment/</guid>
+      <guid>http://localhost:1313/tags/enactment/</guid>
       <description></description>
     </item>
     <item>
@@ -268,10 +268,108 @@
       <description></description>
     </item>
     <item>
+      <title>Subjects</title>
+      <link>http://localhost:1313/tags/subjects/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/subjects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Black Box</title>
+      <link>http://localhost:1313/tags/black-box/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/black-box/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gdpr</title>
+      <link>http://localhost:1313/tags/gdpr/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gdpr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Practices</title>
+      <link>http://localhost:1313/tags/data-practices/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-practices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jedi</title>
+      <link>http://localhost:1313/tags/jedi/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/jedi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Subjectivation</title>
+      <link>http://localhost:1313/tags/subjectivation/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/subjectivation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Special Issue</title>
+      <link>http://localhost:1313/tags/special-issue/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/special-issue/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Placeholders</title>
       <link>http://localhost:1313/tags/placeholders/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/placeholders/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transversal</title>
+      <link>http://localhost:1313/tags/transversal/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/transversal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accountability</title>
+      <link>http://localhost:1313/tags/accountability/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/accountability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Algorithms</title>
+      <link>http://localhost:1313/tags/algorithms/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Context</title>
+      <link>http://localhost:1313/tags/context/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/context/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Citizen</title>
+      <link>http://localhost:1313/tags/citizen/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/citizen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trust</title>
+      <link>http://localhost:1313/tags/trust/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/trust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Scientist</title>
+      <link>http://localhost:1313/tags/data-scientist/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-scientist/</guid>
       <description></description>
     </item>
     <item>

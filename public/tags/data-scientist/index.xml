@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Data Scientist on Baki Cakici</title>
+    <link>http://localhost:1313/tags/data-scientist/</link>
+    <description>Recent content in Data Scientist on Baki Cakici</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/data-scientist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Scientists: A New Faction of the Transnational Field of Statistics</title>
+      <link>http://localhost:1313/writing/datascientists2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/datascientists2018/</guid>
+      <description>We discuss how data science as a  field and a profession came into being in relation to but also as a critique of existing ones such as statistics and statisticians.</description>
+    </item>
+  </channel>
+</rss>
