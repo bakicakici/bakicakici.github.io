@@ -6,7 +6,7 @@
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/critical-pedagogy/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -30,10 +30,10 @@
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writing/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/identification/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -63,7 +63,7 @@
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/numbers/</loc>
-    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/performativity/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -75,7 +75,7 @@
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/data/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/programming/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -96,7 +96,7 @@
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/method/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/teaching/navcom2023/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -144,22 +144,22 @@
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/enactment/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/europe/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/population-census/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/practices/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writing/statsubjects2021/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/statistics/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/subjects/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
@@ -207,7 +207,7 @@
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/transversal/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/teaching/navcom2019/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -225,7 +225,7 @@
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/citizen/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writing/citizendata2018/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
@@ -238,6 +238,42 @@
   </url><url>
     <loc>http://localhost:1313/writing/datascientists2018/</loc>
     <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/babbage/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/constants2018/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/royal-statistical-society/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/statistical-society-of-london/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/action/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/emergency/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/management/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/surveillance/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/action2017/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/citizendata2017/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/workshop/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/transcending2016/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writing/case2010/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>

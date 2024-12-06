@@ -6,7 +6,7 @@
     <description>Recent content in Europe on Baki Cakici</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/europe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Practices: Making Up a European People</title>
@@ -49,6 +49,20 @@
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writing/datascientists2018/</guid>
       <description>We discuss how data science as a  field and a profession came into being in relation to but also as a critique of existing ones such as statistics and statisticians.</description>
+    </item>
+    <item>
+      <title>Citizen Data and Official Statistics: Background Document to a Collaborative Workshop</title>
+      <link>http://localhost:1313/writing/citizendata2017/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/citizendata2017/</guid>
+      <description>This working paper was written in preparation for a collaborative workshop organised for statisticians, social scientists, and app designers.</description>
+    </item>
+    <item>
+      <title>Transcending Methodological Nationalism Through a Transversal Method? On the Stakes and Challenges of Collaboration</title>
+      <link>http://localhost:1313/writing/transcending2016/</link>
+      <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/transcending2016/</guid>
+      <description>This paper reflects on the challenges of doing collaborative ethnography in a research project (ARITHMUS) that studies the enactment of populations through statistics.</description>
     </item>
   </channel>
 </rss>

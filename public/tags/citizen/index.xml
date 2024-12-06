@@ -6,7 +6,7 @@
     <description>Recent content in Citizen on Baki Cakici</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/citizen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Citizen Data and Trust in Official Statistics</title>
@@ -14,6 +14,13 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writing/citizendata2018/</guid>
       <description>In a time of alternative facts, what constitutes legitimate knowledge and expertise are major political sites of contention and struggle.</description>
+    </item>
+    <item>
+      <title>Citizen Data and Official Statistics: Background Document to a Collaborative Workshop</title>
+      <link>http://localhost:1313/writing/citizendata2017/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/citizendata2017/</guid>
+      <description>This working paper was written in preparation for a collaborative workshop organised for statisticians, social scientists, and app designers.</description>
     </item>
   </channel>
 </rss>

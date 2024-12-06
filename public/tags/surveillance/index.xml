@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Surveillance on Baki Cakici</title>
+    <link>http://localhost:1313/tags/surveillance/</link>
+    <description>Recent content in Surveillance on Baki Cakici</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/surveillance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Triggering Action: Participatory Surveillance and Event Detection in Public Emergency Management</title>
+      <link>http://localhost:1313/writing/action2017/</link>
+      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/action2017/</guid>
+      <description>Our chapter is informed by work that theorizes the relationship between knowledge of populations and modes of governance.</description>
+    </item>
+  </channel>
+</rss>
