@@ -6,7 +6,7 @@
     <description>Recent content on Baki Cakici</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -189,6 +189,27 @@
       <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writing/transcending2016/</guid>
       <description>This paper reflects on the challenges of doing collaborative ethnography in a research project (ARITHMUS) that studies the enactment of populations through statistics.</description>
+    </item>
+    <item>
+      <title>Changing Behaviour to Save Energy: ICT-Based Surveillance for a Low-Carbon Economy in the Seventh Framework Programme</title>
+      <link>http://localhost:1313/writing/changing2014/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/changing2014/</guid>
+      <description>EU FP7 texts discuss only the potential positive effects of technological surveillance, but neither acknowledge nor require the handling of its negative effects.</description>
+    </item>
+    <item>
+      <title>ICT4S 2029: What Will Be the Systems Supporting Sustainability in 15 Years?</title>
+      <link>http://localhost:1313/writing/systems2014/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/systems2014/</guid>
+      <description>What is your vision for systems that will be supporting sustainability in 15 years?</description>
+    </item>
+    <item>
+      <title>Detecting the Visible: The Discursive Construction of Health Threats in a Syndromic Surveillance System Design</title>
+      <link>http://localhost:1313/writing/detecting2014/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/detecting2014/</guid>
+      <description>Information and communication technologies are not value-neutral tools that reflect reality; they privilege some forms of action, and they limit others.</description>
     </item>
     <item>
       <title>CASE: A Framework for Computer Supported Outbreak Detection</title>

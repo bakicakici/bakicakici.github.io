@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ICT4S on Baki Cakici</title>
+    <link>http://localhost:1313/tags/ict4s/</link>
+    <description>Recent content in ICT4S on Baki Cakici</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ict4s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ICT4S 2029: What Will Be the Systems Supporting Sustainability in 15 Years?</title>
+      <link>http://localhost:1313/writing/systems2014/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/systems2014/</guid>
+      <description>What is your vision for systems that will be supporting sustainability in 15 years?</description>
+    </item>
+  </channel>
+</rss>

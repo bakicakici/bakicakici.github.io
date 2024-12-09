@@ -6,7 +6,7 @@
     <description>Recent content in Surveillance on Baki Cakici</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/surveillance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Triggering Action: Participatory Surveillance and Event Detection in Public Emergency Management</title>
@@ -14,6 +14,20 @@
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writing/action2017/</guid>
       <description>Our chapter is informed by work that theorizes the relationship between knowledge of populations and modes of governance.</description>
+    </item>
+    <item>
+      <title>ICT4S 2029: What Will Be the Systems Supporting Sustainability in 15 Years?</title>
+      <link>http://localhost:1313/writing/systems2014/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/systems2014/</guid>
+      <description>What is your vision for systems that will be supporting sustainability in 15 years?</description>
+    </item>
+    <item>
+      <title>Detecting the Visible: The Discursive Construction of Health Threats in a Syndromic Surveillance System Design</title>
+      <link>http://localhost:1313/writing/detecting2014/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/detecting2014/</guid>
+      <description>Information and communication technologies are not value-neutral tools that reflect reality; they privilege some forms of action, and they limit others.</description>
     </item>
   </channel>
 </rss>
