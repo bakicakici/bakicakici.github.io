@@ -6,7 +6,7 @@
     <description>Recent content in Surveillance on Baki Cakici</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/surveillance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Triggering Action: Participatory Surveillance and Event Detection in Public Emergency Management</title>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writing/action2017/</guid>
       <description>Our chapter is informed by work that theorizes the relationship between knowledge of populations and modes of governance.</description>
+    </item>
+    <item>
+      <title>Changing Behaviour to Save Energy: ICT-Based Surveillance for a Low-Carbon Economy in the Seventh Framework Programme</title>
+      <link>http://localhost:1313/writing/changing2014/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/changing2014/</guid>
+      <description>EU FP7 texts discuss only the potential positive effects of technological surveillance, but neither acknowledge nor require the handling of its negative effects.</description>
     </item>
     <item>
       <title>ICT4S 2029: What Will Be the Systems Supporting Sustainability in 15 Years?</title>
@@ -28,6 +35,20 @@
       <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writing/detecting2014/</guid>
       <description>Information and communication technologies are not value-neutral tools that reflect reality; they privilege some forms of action, and they limit others.</description>
+    </item>
+    <item>
+      <title>The Informed Gaze: On the Implications of ICT-Based Surveillance</title>
+      <link>http://localhost:1313/writing/phd2013/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/phd2013/</guid>
+      <description>Information and communication technologies are not value-neutral.</description>
+    </item>
+    <item>
+      <title>Sustainability Through Surveillance: ICT Discourses in Design Documents</title>
+      <link>http://localhost:1313/writing/survsoc2013/</link>
+      <pubDate>Sun, 23 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/survsoc2013/</guid>
+      <description>Surveillance translates the traces, and the translations exert new pressures on existing power relations.</description>
     </item>
   </channel>
 </rss>

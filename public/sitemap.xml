@@ -6,7 +6,7 @@
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/critical-pedagogy/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -30,10 +30,10 @@
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writing/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/identification/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
@@ -261,7 +261,7 @@
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/surveillance/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writing/action2017/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
@@ -275,6 +275,21 @@
     <loc>http://localhost:1313/writing/transcending2016/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/behaviour/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/changing2014/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/detection/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/discourse/</loc>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fp7/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ict4s/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -282,15 +297,9 @@
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sustainability/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writing/detecting2014/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/detection/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/discourse/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/epidemiology/</loc>
@@ -302,10 +311,31 @@
     <loc>http://localhost:1313/tags/syndromic-surveillance/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writing/case2010/</loc>
-    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/ict/</loc>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/outbreak-detection/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/public-health/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/simulation/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sustainability/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/phd2013/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/design/</loc>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/survsoc2013/</loc>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/case2010/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/software/</loc>

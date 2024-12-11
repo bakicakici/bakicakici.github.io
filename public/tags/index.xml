@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Baki Cakici</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Critical Pedagogy</title>
@@ -429,6 +429,34 @@
       <description></description>
     </item>
     <item>
+      <title>Behaviour</title>
+      <link>http://localhost:1313/tags/behaviour/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/behaviour/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Detection</title>
+      <link>http://localhost:1313/tags/detection/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discourse</title>
+      <link>http://localhost:1313/tags/discourse/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/discourse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FP7</title>
+      <link>http://localhost:1313/tags/fp7/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fp7/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>ICT4S</title>
       <link>http://localhost:1313/tags/ict4s/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
@@ -440,20 +468,6 @@
       <link>http://localhost:1313/tags/sustainability/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/sustainability/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Detection</title>
-      <link>http://localhost:1313/tags/detection/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/detection/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Discourse</title>
-      <link>http://localhost:1313/tags/discourse/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/discourse/</guid>
       <description></description>
     </item>
     <item>
@@ -478,10 +492,45 @@
       <description></description>
     </item>
     <item>
+      <title>ICT</title>
+      <link>http://localhost:1313/tags/ict/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ict/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Outbreak Detection</title>
       <link>http://localhost:1313/tags/outbreak-detection/</link>
-      <pubDate>Fri, 12 Mar 2010 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/outbreak-detection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Public Health</title>
+      <link>http://localhost:1313/tags/public-health/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/public-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simulation</title>
+      <link>http://localhost:1313/tags/simulation/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/simulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sustainability&#34;</title>
+      <link>http://localhost:1313/tags/sustainability/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sustainability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design</title>
+      <link>http://localhost:1313/tags/design/</link>
+      <pubDate>Sun, 23 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/design/</guid>
       <description></description>
     </item>
     <item>

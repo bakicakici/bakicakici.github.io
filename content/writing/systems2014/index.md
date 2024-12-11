@@ -7,7 +7,7 @@ author: ["Birgit Penzenstadler", "Bill Tomlinson", "Eric Baumer", "Marcel Pufal"
 description: "What is your vision for systems that will be supporting sustainability in 15 years?"
 summary:  "What is your vision for systems that will be supporting sustainability in 15 years?"
 editPost:
-    URL: "https://doi.org/10.2991/ict4s-14.2014.4
+    URL: "https://doi.org/10.2991/ict4s-14.2014.4"
     Text: "Proceedings of the 2014 Conference ICT for Sustainability"
 ---
 ---

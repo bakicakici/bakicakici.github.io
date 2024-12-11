@@ -156,3 +156,46 @@
 </script>
 </body>
 </html>
+ent">Sustainability Through Surveillance: ICT Discourses in Design Documents
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Surveillance translates the traces, and the translations exert new pressures on existing power relations.</p>
+  </div>
+  <footer class="entry-footer"><span title='2013-06-23 00:00:00 +0000 UTC'>June 2013</span>&nbsp;&middot;&nbsp;Baki Cakici</footer>
+  <a class="entry-link" aria-label="post link to Sustainability Through Surveillance: ICT Discourses in Design Documents" href="http://localhost:1313/writing/survsoc2013/"></a>
+</article>
+    </main>
+    
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+</body>
+</html>
