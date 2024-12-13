@@ -16,12 +16,12 @@ menu:
         - name: teaching
           url: teaching/
           weight: 2
-        - name: things
-          url: things/
-          weight: 3
+        #- name: things
+        #  url: things/
+        #  weight: 3
         - name: about
           url: about/
-          weight: 4
+          weight: 3 #4
 
 params:
     description: "Associate professor in STS/sociology/computer science at the IT University of Copenhagen."
@@ -39,7 +39,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["writing","teaching","things"]
+    MainSections: ["writing","teaching"] #,"things"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -59,8 +59,8 @@ params:
               url: writing/
             - name: teaching
               url: teaching/
-            - name: things
-              url: things/
+            #- name: things
+            #  url: things/
             - name: about
               url: about/
             - name: tags

@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/writing/phlic2011/</guid>
       <description>This thesis presents a method for understanding disease surveillance systems structurally and examines four existing systems.</description>
     </item>
+    <item>
+      <title>Pickman’s Machine: A Reasoning Architecture</title>
+      <link>http://localhost:1313/writing/msc2008/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/msc2008/</guid>
+      <description>A two-layered architecture for reasoning that uses narratives to guide its behavior is presented.</description>
+    </item>
   </channel>
 </rss>

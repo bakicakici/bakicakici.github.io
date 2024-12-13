@@ -303,7 +303,7 @@
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/epidemiology/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/health-threat/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
@@ -322,9 +322,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/simulation/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sustainability/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writing/phd2013/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
@@ -358,6 +355,24 @@
   </url><url>
     <loc>http://localhost:1313/tags/software/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/eurosurv2009/</loc>
+    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/h1n1/</loc>
+    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/influenza/</loc>
+    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pandemic/</loc>
+    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/microsim2009/</loc>
+    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/msc2008/</loc>
+    <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/</loc>
   </url>
