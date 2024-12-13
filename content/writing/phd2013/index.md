@@ -2,7 +2,7 @@
 title: "The Informed Gaze: On the Implications of ICT-Based Surveillance"
 date: 2013-09-23
 lastmod: 2024-12-09
-tags: ["ict", "surveillance", sustainability", "public health", "simulation", "outbreak detection"]
+tags: ["ict", "surveillance", "sustainability", "public health", "simulation", "outbreak detection"]
 author: ["Baki Cakici"]
 description: "Information and communication technologies are not value-neutral."
 summary:  "Information and communication technologies are not value-neutral."

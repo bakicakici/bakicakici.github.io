@@ -6,7 +6,7 @@
     <description>Recent content in Computational on Baki Cakici</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/computational/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Workflow for Software Development Within Computational Epidemiology</title>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writing/workflow2011/</guid>
       <description>A critical investigation into computational models developed for studying the spread of communicable disease is presented.</description>
+    </item>
+    <item>
+      <title>Disease Surveillance Systems</title>
+      <link>http://localhost:1313/writing/phlic2011/</link>
+      <pubDate>Fri, 20 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/phlic2011/</guid>
+      <description>This thesis presents a method for understanding disease surveillance systems structurally and examines four existing systems.</description>
     </item>
   </channel>
 </rss>
