@@ -1,5 +1,5 @@
 ---
-title: "Risken är att att 500 miljoner kronor kastas bort på en ny folkräkning"
+title: "Risken är att 500 miljoner kronor kastas bort på en ny folkräkning"
 date: 2023-04-12
 lastmod: 2024-12-04
 tags: ["population", "census", "civil registration", "sydsvenskan"]
@@ -20,4 +20,4 @@ Mot bakgrund av kunskapsläget är vi förvånade över att regeringen och Sveri
 
 ---
 ##### Citation
-Cakici, Baki, Hanna Sjögren. 2023. "Risken är att att 500 miljoner kronor kastas bort på en ny folkräkning." Sydsvenskan. April 12. https://www.sydsvenskan.se/2023-04-12/risken-ar-att-att-500-miljoner-kronor-kastas-bort-pa-en-ny-folkrakning.
+Cakici, Baki, Hanna Sjögren. 2023. "Risken är att 500 miljoner kronor kastas bort på en ny folkräkning." Sydsvenskan. April 12. https://www.sydsvenskan.se/2023-04-12/risken-ar-att-att-500-miljoner-kronor-kastas-bort-pa-en-ny-folkrakning.
